@@ -13,7 +13,7 @@ Software: Python 3.7.6, JupyterLab
 
 ## Outcome
 #### 1. Summary by Type of City
-![City_Type_Summary](Analysis/Summary_Table.png)
+![City_Type_Summary](Analysis/Challenge_Table.png)
 
 
 #### 2. Fares by Type of City Overtime
